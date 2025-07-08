@@ -9,12 +9,9 @@ Grande parte do código é baseado no projeto ESPBug_PIO – https://github.com/
 
 Esse projeto, por sua vez, é fortemente inspirado nos seguintes repositórios:
 
-# ESPBug – https://github.com/willmendil/ESPBug
-
-# ESPortalV2 – https://github.com/exploitagency/ESPortalV2
-
-# github-ESPortal – https://github.com/exploitagency/github-ESPortal
-
-#esp8266_deauther – https://github.com/spacehuhn/esp8266_deauther
+ESPBug – https://github.com/willmendil/ESPBug
+ESPortalV2 – https://github.com/exploitagency/ESPortalV2
+github-ESPortal – https://github.com/exploitagency/github-ESPortal
+esp8266_deauther – https://github.com/spacehuhn/esp8266_deauther
 
 
